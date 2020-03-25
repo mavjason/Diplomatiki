@@ -1,2 +1,17 @@
 Link: 
 https://www.kubeflow.org/docs/about/gsoc/
+Kubeflow ABOUT
+1)Αφιερωμένο στο ML workflow πάνω σε Kubernetes.
+2)Όπου κανείς τρέχει το Kubernetes μπορεις να τρέχεις και Kubeflow.
+3)Machine learning toolkit for Kubernetes.
+
+Η ροή εργασίας είναι :
+α)Κατεβαζείς και τρεχεις Kubeflow
+β)Μπορεις να προσαρμοσείς τα αποτελεσματα.
+γ)Τρέχεις το script που δομει τα Containers στο περιβαλλον σου.
+
+Τι κανει :
+Αναπτυσεις και παρατασσεις ML ροες εργασιων.
+Το concept του Kubeflow:
+Η εικονα δείχνει πως οργανώνεται τα στοιχεια του ML πανω σε Kubernetes.
+Πανω πανω εχουμε ολα τα εργαλεια που μπορει να χρησιμοποιησει καποιος ο οποιος κανει ML.
